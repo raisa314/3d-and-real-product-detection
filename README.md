@@ -1,1 +1,1 @@
-# 3d-and-realproduct-detection
+# 3d-and-real-product-detection
